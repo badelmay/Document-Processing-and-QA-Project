@@ -21,6 +21,6 @@ The project is designed to process complex documents and extract information usi
 
 2. **Installation**
    ```bash
-   git clone https://github.com/badelmay/proje.git
+   git clone https://github.com/badelmay/lang_chain_llm_model.git
    cd project
    pip install -r requirements.txt
