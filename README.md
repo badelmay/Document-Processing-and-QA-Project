@@ -1,6 +1,6 @@
 # Document Processing and Question & Answer Project
 
-It is an example that performs text extraction, vectorization and querying from PDF files using angChain and Hugging Face models.
+It is an example that performs text extraction, vectorization and querying from PDF files using LangChain and Hugging Face models.
 The project is designed to process complex documents and extract information using specialized language models and text processing tools.
 
 ## Features
