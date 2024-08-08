@@ -13,14 +13,6 @@ The project is designed to process complex documents and extract information usi
 
 - **Question-Answering:** The Hugging Face language model, which is designed to directly answer any question, is used. Document fragments are scanned and the relevant text context is used to find the most appropriate answer to a given question.
 
-## Installation
+## Contact
 
-1. **Requirements**
-   - Python 3.x
-   - Pip
-
-2. **Installation**
-   ```bash
-    git clone https://github.com/badelmay/lang_chain_llm_model.git
-    cd lang_chain_llm_model
-    pip install -r requirements.txt
+For any questions or feedback, please contact [badelmay8@gmail.com](mailto:badelmay8@gmail.com).
